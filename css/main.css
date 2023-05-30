@@ -17,7 +17,7 @@ nav ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #ff33aa;
+    background-color: #7733aa;
 }
 
 nav li {
@@ -34,13 +34,13 @@ nav li a {
 }
 
 nav li a:hover {
-    background-color: #7733aa;
+    background-color: #ff33aa;
     color: #000000;
     text-decoration: none;
 }
 
 nav li a:active {
-    background-color: #7733aa;
+    background-color: #ff33aa;
     color: #e051be;
     text-decoration: none;
 }
