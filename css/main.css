@@ -17,7 +17,7 @@ nav ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #e051be;
+    background-color: #ff33aa;
 }
 
 nav li {
@@ -34,13 +34,13 @@ nav li a {
 }
 
 nav li a:hover {
-    background-color: #fff366;
+    background-color: #7733aa;
     color: #000000;
     text-decoration: none;
 }
 
 nav li a:active {
-    background-color: #fff366;
+    background-color: #7733aa;
     color: #e051be;
     text-decoration: none;
 }
@@ -72,7 +72,7 @@ h1 {
     font-size: 2em;
     vertical-align: middle;
     padding: 32px 16px 32px 32px;
-    color: #fff366;
+    color: #7733aa;
     background-color: #000000;
     margin: 0px 0px 0px 0px;
 }
@@ -127,7 +127,7 @@ footer a {
 
 footer a:hover {
     display: block;
-    background-color: #fff366;
+    background-color: #7733aa;
     color: #ffffff;
     padding: 14px 16px;
     text-decoration: none;
@@ -135,7 +135,7 @@ footer a:hover {
 
 footer a:active {
     display: block;
-    background-color: #fff366;
+    background-color: #7733aa;
     color: #e051be;
     padding: 14px 16px;
     text-decoration: none;
