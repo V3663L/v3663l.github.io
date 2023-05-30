@@ -150,7 +150,7 @@ comments {
 }
 
 comments a {
-    background-color: #ff33aa;
+    background-color: #7733aa;
     display: block;
     color: white;
     padding: 14px 16px 14px 16px;
@@ -158,7 +158,7 @@ comments a {
 }
 
 comments a:hover {
-    background-color: #ff33aa;
+    background-color: #7733aa;
     display: block;
     color: white;
     padding: 14px 16px 14px 16px;
@@ -166,7 +166,7 @@ comments a:hover {
 }
 
 comments a:active {
-    background-color: #ff33aa;
+    background-color: #7733aa;
     display: block;
     color: white;
     padding: 14px 16px 14px 16px;
