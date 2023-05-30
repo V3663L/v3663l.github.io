@@ -120,7 +120,7 @@ footer {
 footer a {
     background-color: #7733aa;
     display: block;
-    color: #ff33aa;
+    color: #ffffff;
     padding: 14px 16px;
     text-decoration: none;
 }
@@ -136,7 +136,7 @@ footer a:hover {
 footer a:active {
     display: block;
     background-color: #ff33aa; 
-    color: #ffffff;
+    color: #ff33aa;
     padding: 14px 16px;
     text-decoration: none;
 }
