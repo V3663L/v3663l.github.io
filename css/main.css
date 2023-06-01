@@ -1,7 +1,7 @@
-@import url('https://fonts.googleapis.com/css?family=Nunito');
+@import url('https://fonts.googleapis.com/css?family=Oxanium');
 
 body {
-    font-family: 'Nunito', sans-serif;
+    font-family: 'Oxanium', sans-serif;
     margin: 60px auto;
     width: 70%;
     background-color: #262632
@@ -48,13 +48,13 @@ nav li a:active {
 /* Text */
 
 a {
-    font-family: 'Nunito', sans-serif;
+    font-family: 'Oxanium', sans-serif;
     text-decoration: none;
     color: #ff99ee;
 }
 
 a ul li {
-    font-family: 'Nunito', sans-serif;
+    font-family: 'Oxanium', sans-serif;
     font-size: 1.3em;
     color: #ff33aa;
     padding: 8px 8px 8px 8px;
@@ -68,7 +68,7 @@ a:hover {
 /*Page header*/
 
 h1 {
-    font-family: 'Nunito', sans-serif;
+    font-family: 'Oxanium', sans-serif;
     font-size: 2em;
     vertical-align: middle;
     padding: 32px 16px 32px 32px;
@@ -80,7 +80,7 @@ h1 {
 /*Game name*/
 
 h2 {
-    font-family: 'Nunito', sans-serif;
+    font-family: 'Oxanium', sans-serif;
     font-size: 1.6em;
     vertical-align: middle;
     padding: 16px 16px 16px 16px;
@@ -93,7 +93,7 @@ h2 {
 
 h3 {
     text-align: center;
-    font-family: 'Nunito', sans-serif;
+    font-family: 'Oxanium', sans-serif;
     font-size: 1.3em;
     color: #000000;
     padding: 8px 8px 8px 8px;
@@ -103,7 +103,7 @@ h3 {
 /* Text */
 
 p {
-    font-family: 'Nunito', sans-serif;
+    font-family: 'Oxanium', sans-serif;
     font-size: 1.2em;
     color: #ffffff;
     padding: 8px 8px 8px 8px;
@@ -111,7 +111,7 @@ p {
 }
 
 footer {
-    font-family: 'Nunito', sans-serif;
+    font-family: 'Oxanium', sans-serif;
     font-size: 1em;
     margin-right: 0px;
     cursor: pointer;
@@ -144,7 +144,7 @@ footer a:active {
 /*Comments divider*/
 
 comments {
-    font-family: 'Nunito', sans-serif;
+    font-family: 'Oxanium', sans-serif;
     font-size: 1em;
     margin-right: 0px;
 }
@@ -176,7 +176,7 @@ comments a:active {
 /*Unordered list*/
 
 ul.posts { 
-    font-family: 'Nunito', sans-serif;
+    font-family: 'Oxanium', sans-serif;
     list-style: none;
     font-size: 1.3em;
     color: #ff33aa;
@@ -185,7 +185,7 @@ ul.posts {
 }
 
 ul.posts li {
-    font-family: 'Nunito', sans-serif;
+    font-family: 'Oxanium', sans-serif;
     list-style: none;
     font-size: 1.3em;
     color: #ff33aa;
@@ -201,7 +201,7 @@ ul.posts li {
     display:inline-block;
     cursor:pointer;
     text-decoration:none;
-    font-family: 'Nunito', sans-serif;
+    font-family: 'Oxanium', sans-serif;
     font-size: 1em;
     vertical-align: middle;
     padding: 8px 8px 8px 8px;
