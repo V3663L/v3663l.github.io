@@ -1,6 +1,6 @@
 name: V3663L.com
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
-description: "Home for awesome indie games created by game developer Zuurix."
+description: "A website for V3663L: Solo game developer studio developing RPG-and-adjacent games - - - -"
 gems:
   - jekyll-seo-tag
