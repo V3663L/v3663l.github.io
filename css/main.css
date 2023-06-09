@@ -110,6 +110,17 @@ p {
     margin: 12px 12px 12px 12px;
 }
 
+poem {
+    
+    font-family: 'Oxanium', sans-serif;
+    font-size: 1.2em;
+    color: #ff33aa;
+    padding: 8px 8px 8px 8px;
+    margin: 12px 12px 12px 12px;
+    
+    text-align: center;
+}
+
 footer {
     font-family: 'Oxanium', sans-serif;
     font-size: 1em;
