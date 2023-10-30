@@ -13,4 +13,4 @@ The demo remains essentially unchanged, just a bunch of minor things.
 
 Meanwhile, my publisher's team is working on localization, which I was told could take up to a month, so for now release is at least that far away.
 
-Thank you
+Thank you.
