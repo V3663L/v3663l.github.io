@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Magic of Spring: Development update #6: Final Steps"
+title: "Magic of Spring: Demo update! Version 0.9.7: Penultimate"
 date: 2023-10-30
 ---
 
