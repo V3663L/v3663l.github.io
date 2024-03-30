@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Light of the Locked World Devblog #35: Spellscarred Desert"
+title: "Light of the Locked World: Devblog #35: Spellscarred Desert"
 date: 2024-03-11
 ---
 
