@@ -4,7 +4,7 @@ title: "Light of the Locked World: Demo update! Version 0.6.7: Balance changes a
 date: 2024-08-03
 ---
 
-![](https://clan.akamai.steamstatic.com/images//35157834/6e95818ffe29c79ed15fc4577d626053d17ff406.png)
+![](https://github.com/V3663L/v3663l.github.io/raw/main/images/Back%20to%20the%20Locked%20World%20banner.png?raw=true)
 
 Hey all,
 
