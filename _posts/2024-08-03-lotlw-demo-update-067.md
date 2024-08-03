@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Light of the Locked World: Demo update! Version 0.6.7: Balance changes and new audio"
-date: 2024-07-15
+date: 2024-08-03
 ---
 
 ![](https://clan.akamai.steamstatic.com/images//35157834/6e95818ffe29c79ed15fc4577d626053d17ff406.png)
