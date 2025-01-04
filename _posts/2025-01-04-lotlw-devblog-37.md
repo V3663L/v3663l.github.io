@@ -8,4 +8,4 @@ date: 2025-01-04
 
 A post about what I've achieved in the last two months, developing a final major pre-release batch of content
 
-[Click here to read it >>](https://store.steampowered.com/news/app/1097560/view/4463723934172315842)
+[Click here to read it >>](https://store.steampowered.com/news/app/1097560/view/528709014663463539)
