@@ -6,6 +6,15 @@ date: 2025-01-04
 
 ![](https://github.com/V3663L/v3663l.github.io/blob/main/images/LOTLW%20Header%20Capsule%20920x430.png?raw=true)
 
-A post about what I've achieved in the last two months, developing a final major pre-release batch of content
+Hey all,
 
-[Click here to read it >>](https://store.steampowered.com/news/app/1097560/view/528709014663463539)
+It's been a tough few months, but I'm happy to say I've managed to get through it!
+The final quest in Light of the Locked World's story campaign quest series is finished!
+
+It's been a main hurdle preventing the game from being released.
+
+I'd love to say that "LOTLW Launches Globally Month/Day 2025" - but first, I need to discuss the future of Light of the Locked World with the game's publisher.
+
+Meanwhile, I'm running tests with my friends and we got a ton of ideas of how to continuously improve the game!
+
+Hope to be back with more good news soon!
