@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Light of the Locked World: Devblog #37: Towards the finale"
+title: "Light of the Locked World: Devblog #38: A quick update"
 date: 2025-04-28
 ---
 
