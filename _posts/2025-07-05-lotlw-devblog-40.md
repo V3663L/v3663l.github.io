@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Light of the Locked World: LOTLW Devblog #40: Aura gear"
+title: "Light of the Locked World: Devblog #40: Aura gear"
 date: 2025-07-05
 ---
 
