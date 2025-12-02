@@ -4,7 +4,7 @@ title: "Light of the Locked World: LOTLW Devblog #40: Aura gear"
 date: 2025-07-05
 ---
 
-![](https://clan.cloudflare.steamstatic.com/images//35157834/96176c487a602ae329d21a546ab92d009691e447.png)
+![](https://github.com/V3663L/v3663l.github.io/blob/main/images/LOTLW%20Header%20Capsule%20920x430.png?raw=true)
 
 Hey all,
 
