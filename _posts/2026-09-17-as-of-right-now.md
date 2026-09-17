@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "As of right now ..."
+title: "As of right now"
 date: 2026-09-17
 ---
 
